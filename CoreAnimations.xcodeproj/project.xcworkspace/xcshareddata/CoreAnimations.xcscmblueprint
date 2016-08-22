@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C7925AB5B99930D87B1AFAD3E5820BE26818E6FF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C7925AB5B99930D87B1AFAD3E5820BE26818E6FF" : 0,
+    "80946A0AAE52A0A97DCC97B4E72680A7C3826CD1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "81051EA5-CFA8-4F7B-AF3F-8E7ACD0FF6C6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C7925AB5B99930D87B1AFAD3E5820BE26818E6FF" : "GitHub\/",
+    "80946A0AAE52A0A97DCC97B4E72680A7C3826CD1" : "GitHub\/CoreAnimations\/CoreAnimations\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CoreAnimations",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CoreAnimations\/CoreAnimations.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/chaosyuan\/CoreAnimations.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "80946A0AAE52A0A97DCC97B4E72680A7C3826CD1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/chaosyuan\/ScanQRCode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C7925AB5B99930D87B1AFAD3E5820BE26818E6FF"
+    }
+  ]
+}
